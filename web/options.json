@@ -1,0 +1,231 @@
+{
+	"options": [
+		{
+			"column_name": "cap_shape",
+			"label_values": [
+				"x",
+				"b",
+				"c",
+				"f",
+				"k",
+				"s"
+			]
+		},
+		{
+			"column_name": "cap_surface",
+			"label_values": [
+				"f",
+				"g",
+				"y",
+				"s"
+			]
+		},
+		{
+			"column_name": "cap_color",
+			"label_values": [
+				"n",
+				"b",
+				"c",
+				"g",
+				"r",
+				"p",
+				"u",
+				"e",
+				"w",
+				"y"
+			]
+		},
+		{
+			"column_name": "bruises",
+			"label_values": [
+				"t",
+				"f"
+			]
+		},
+		{
+			"column_name": "odor",
+			"label_values": [
+				"a",
+				"l",
+				"c",
+				"y",
+				"f",
+				"m",
+				"n",
+				"p",
+				"s"
+			]
+		},
+		{
+			"column_name": "gill_attachment",
+			"label_values": [
+				"a",
+				"f"
+			]
+		},
+		{
+			"column_name": "gill_spacing",
+			"label_values": [
+				"c",
+				"w"
+			]
+		},
+		{
+			"column_name": "gill_size",
+			"label_values": [
+				"b",
+				"n"
+			]
+		},
+		{
+			"column_name": "gill_color",
+			"label_values": [
+				"k",
+				"n",
+				"b",
+				"h",
+				"g",
+				"r",
+				"o",
+				"p",
+				"u",
+				"e",
+				"w",
+				"y"
+			]
+		},
+		{
+			"column_name": "stalk_shape",
+			"label_values": [
+				"e",
+				"t"
+			]
+		},
+		{
+			"column_name": "stalk_root",
+			"label_values": [
+				"b",
+				"c",
+				"e",
+				"r",
+				"?"
+			]
+		},
+		{
+			"column_name": "stalk_surface_above_ring",
+			"label_values": [
+				"f",
+				"y",
+				"k",
+				"s"
+			]
+		},
+		{
+			"column_name": "stalk_surface_below_ring",
+			"label_values": [
+				"f",
+				"y",
+				"k",
+				"s"
+			]
+		},
+		{
+			"column_name": "stalk_color_above_ring",
+			"label_values": [
+				"n",
+				"b",
+				"c",
+				"g",
+				"o",
+				"p",
+				"e",
+				"w",
+				"y"
+			]
+		},
+		{
+			"column_name": "stalk_color_below_ring",
+			"label_values": [
+				"n",
+				"b",
+				"c",
+				"g",
+				"o",
+				"p",
+				"e",
+				"w",
+				"y"
+			]
+		},
+		{
+			"column_name": "veil_type",
+			"label_values": [
+				"p"
+			]
+		},
+		{
+			"column_name": "veil_color",
+			"label_values": [
+				"n",
+				"o",
+				"w",
+				"y"
+			]
+		},
+		{
+			"column_name": "ring_number",
+			"label_values": [
+				"n",
+				"o",
+				"t"
+			]
+		},
+		{
+			"column_name": "ring_type",
+			"label_values": [
+				"e",
+				"f",
+				"l",
+				"n",
+				"p"
+			]
+		},
+		{
+			"column_name": "spore_print_color",
+			"label_values": [
+				"k",
+				"n",
+				"b",
+				"h",
+				"r",
+				"o",
+				"u",
+				"w",
+				"y"
+			]
+		},
+		{
+			"column_name": "population",
+			"label_values": [
+				"a",
+				"c",
+				"n",
+				"s",
+				"v",
+				"y"
+			]
+		},
+		{
+			"column_name": "habitat",
+			"label_values": [
+				"g",
+				"l",
+				"m",
+				"p",
+				"u",
+				"w",
+				"d"
+			]
+		}
+	]
+}

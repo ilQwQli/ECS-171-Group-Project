@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	height: 100%;
+	font-family: Inter, Arial, sans-serif;
+}
+
+body {
+	width: 100%;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+}
